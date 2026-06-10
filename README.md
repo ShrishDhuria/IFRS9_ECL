@@ -1,6 +1,5 @@
 # IFRS 9 ECL Engine
 
-<!-- Replace ShrishDhuria/IFRS9_ECL with your GitHub path; the badge renders once this repo is pushed and the workflow has run. -->
 [![tests](https://github.com/ShrishDhuria/IFRS9_ECL/actions/workflows/tests.yml/badge.svg)](https://github.com/ShrishDhuria/IFRS9_ECL/actions/workflows/tests.yml)
 
 A practitioner-grade expected-credit-loss (ECL) engine for IFRS 9 impairment,
